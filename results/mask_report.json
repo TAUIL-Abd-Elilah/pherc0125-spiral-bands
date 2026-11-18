@@ -1,0 +1,26 @@
+{
+ "s6m20cw": {
+  "nodes": 2504043,
+  "inside": 1444403,
+  "onsheet": 1154083,
+  "kept": 1125349,
+  "windings_kept": 99,
+  "area_cm2_kept": 394.5
+ },
+ "s7ancm": {
+  "nodes": 2466515,
+  "inside": 1418500,
+  "onsheet": 1131626,
+  "kept": 1103270,
+  "windings_kept": 93,
+  "area_cm2_kept": 386.8
+ },
+ "b08cww125a": {
+  "nodes": 2462606,
+  "inside": 1477017,
+  "onsheet": 1155980,
+  "kept": 1122403,
+  "windings_kept": 93,
+  "area_cm2_kept": 393.5
+ }
+}

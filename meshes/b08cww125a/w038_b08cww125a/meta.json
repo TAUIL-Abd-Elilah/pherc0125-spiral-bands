@@ -1,0 +1,33 @@
+{
+ "scale": [
+  0.05,
+  0.05
+ ],
+ "bbox": [
+  [
+   2292.828125,
+   3613.561767578125,
+   12499.607421875
+  ],
+  [
+   5879.77587890625,
+   4873.529296875,
+   13551.533203125
+  ]
+ ],
+ "area_vx2": 4753200,
+ "area_cm2": 4.166039295408001,
+ "format": "tifxyz",
+ "type": "seg",
+ "uuid": "w038_b08cww125a",
+ "source": "fit_spiral fitted + snap_meshes_local (offset along normal to nearest predicted sheet, regularised)",
+ "snap": {
+  "max_off": 15,
+  "jump": 6.0,
+  "sigma": 1.0,
+  "frac_snapped": 0.9991801934743401,
+  "median_abs_off": 1.2570343017578125
+ },
+ "e5_mask": "e5/mask.py rule (a)(b)(c), 18 Nov 2026",
+ "area_cm2_masked": 3.8046
+}

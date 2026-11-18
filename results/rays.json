@@ -1,0 +1,114 @@
+{
+ "snapped s6m20cw z10800": {
+  "reached": 72.3,
+  "one": 40.1,
+  "two_plus": 11.6,
+  "none": 20.6,
+  "rays": 72
+ },
+ "masked s6m20cw z10800": {
+  "reached": 68.9,
+  "one": 34.8,
+  "two_plus": 7.6,
+  "none": 26.4,
+  "rays": 72
+ },
+ "snapped s6m20cw z11525": {
+  "reached": 71.2,
+  "one": 39.0,
+  "two_plus": 11.1,
+  "none": 21.2,
+  "rays": 72
+ },
+ "masked s6m20cw z11525": {
+  "reached": 68.3,
+  "one": 31.8,
+  "two_plus": 7.6,
+  "none": 29.0,
+  "rays": 72
+ },
+ "snapped s7ancm z11525": {
+  "reached": 71.4,
+  "one": 38.8,
+  "two_plus": 10.2,
+  "none": 22.4,
+  "rays": 72
+ },
+ "masked s7ancm z11525": {
+  "reached": 67.4,
+  "one": 30.8,
+  "two_plus": 6.8,
+  "none": 29.9,
+  "rays": 72
+ },
+ "snapped s7ancm z11800": {
+  "reached": 72.9,
+  "one": 40.2,
+  "two_plus": 11.2,
+  "none": 21.6,
+  "rays": 72
+ },
+ "masked s7ancm z11800": {
+  "reached": 69.2,
+  "one": 34.4,
+  "two_plus": 7.4,
+  "none": 27.5,
+  "rays": 72
+ },
+ "snapped s7ancm z12525": {
+  "reached": 73.6,
+  "one": 42.4,
+  "two_plus": 11.3,
+  "none": 19.9,
+  "rays": 72
+ },
+ "masked s7ancm z12525": {
+  "reached": 71.1,
+  "one": 36.2,
+  "two_plus": 7.4,
+  "none": 27.5,
+  "rays": 72
+ },
+ "snapped b08cww125a z12525": {
+  "reached": 73.7,
+  "one": 41.9,
+  "two_plus": 10.4,
+  "none": 21.4,
+  "rays": 72
+ },
+ "masked b08cww125a z12525": {
+  "reached": 70.3,
+  "one": 33.9,
+  "two_plus": 6.8,
+  "none": 29.6,
+  "rays": 72
+ },
+ "snapped b08cww125a z12800": {
+  "reached": 74.3,
+  "one": 40.8,
+  "two_plus": 12.1,
+  "none": 21.4,
+  "rays": 72
+ },
+ "masked b08cww125a z12800": {
+  "reached": 70.8,
+  "one": 35.8,
+  "two_plus": 8.5,
+  "none": 26.5,
+  "rays": 72
+ },
+ "snapped b08cww125a z13300": {
+  "reached": 77.7,
+  "one": 44.2,
+  "two_plus": 10.5,
+  "none": 22.9,
+  "rays": 72
+ },
+ "masked b08cww125a z13300": {
+  "reached": 73.8,
+  "one": 36.7,
+  "two_plus": 7.0,
+  "none": 30.1,
+  "rays": 72
+ }
+}

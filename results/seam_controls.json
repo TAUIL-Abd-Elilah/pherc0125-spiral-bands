@@ -1,0 +1,254 @@
+{
+ "s6m20cw->s7ancm odd shift +0": {
+  "same": 0.914,
+  "perp_med": 1.43,
+  "same_and_perp2": 0.596,
+  "n": 40083
+ },
+ "s6m20cw->s7ancm odd shift +3": {
+  "same": 0.859,
+  "perp_med": 2.75,
+  "same_and_perp2": 0.285,
+  "n": 40083
+ },
+ "s6m20cw->s7ancm odd shift -3": {
+  "same": 0.838,
+  "perp_med": 3.1,
+  "same_and_perp2": 0.223,
+  "n": 40083
+ },
+ "s6m20cw->s7ancm odd shift +6": {
+  "same": 0.641,
+  "perp_med": 4.42,
+  "same_and_perp2": 0.077,
+  "n": 40083
+ },
+ "s6m20cw->s7ancm odd shift -6": {
+  "same": 0.586,
+  "perp_med": 4.61,
+  "same_and_perp2": 0.063,
+  "n": 40083
+ },
+ "s6m20cw->s7ancm odd shift +10": {
+  "same": 0.319,
+  "perp_med": 4.1,
+  "same_and_perp2": 0.029,
+  "n": 40083
+ },
+ "s6m20cw->s7ancm odd shift -10": {
+  "same": 0.269,
+  "perp_med": 3.85,
+  "same_and_perp2": 0.026,
+  "n": 40083
+ },
+ "s6m20cw->s7ancm even shift +0": {
+  "same": 0.929,
+  "perp_med": 1.06,
+  "same_and_perp2": 0.694,
+  "n": 39373
+ },
+ "s6m20cw->s7ancm even shift +3": {
+  "same": 0.873,
+  "perp_med": 2.72,
+  "same_and_perp2": 0.263,
+  "n": 39373
+ },
+ "s6m20cw->s7ancm even shift -3": {
+  "same": 0.856,
+  "perp_med": 3.05,
+  "same_and_perp2": 0.191,
+  "n": 39373
+ },
+ "s6m20cw->s7ancm even shift +6": {
+  "same": 0.639,
+  "perp_med": 4.59,
+  "same_and_perp2": 0.059,
+  "n": 39373
+ },
+ "s6m20cw->s7ancm even shift -6": {
+  "same": 0.588,
+  "perp_med": 4.86,
+  "same_and_perp2": 0.042,
+  "n": 39373
+ },
+ "s6m20cw->s7ancm even shift +10": {
+  "same": 0.293,
+  "perp_med": 4.14,
+  "same_and_perp2": 0.021,
+  "n": 39373
+ },
+ "s6m20cw->s7ancm even shift -10": {
+  "same": 0.257,
+  "perp_med": 3.91,
+  "same_and_perp2": 0.018,
+  "n": 39373
+ },
+ "s7ancm->b08cww125a odd shift +0": {
+  "same": 0.909,
+  "perp_med": 1.63,
+  "same_and_perp2": 0.55,
+  "n": 39421
+ },
+ "s7ancm->b08cww125a odd shift +3": {
+  "same": 0.857,
+  "perp_med": 2.92,
+  "same_and_perp2": 0.27,
+  "n": 39421
+ },
+ "s7ancm->b08cww125a odd shift -3": {
+  "same": 0.836,
+  "perp_med": 3.03,
+  "same_and_perp2": 0.248,
+  "n": 39421
+ },
+ "s7ancm->b08cww125a odd shift +6": {
+  "same": 0.64,
+  "perp_med": 4.44,
+  "same_and_perp2": 0.095,
+  "n": 39421
+ },
+ "s7ancm->b08cww125a odd shift -6": {
+  "same": 0.59,
+  "perp_med": 4.52,
+  "same_and_perp2": 0.077,
+  "n": 39421
+ },
+ "s7ancm->b08cww125a odd shift +10": {
+  "same": 0.304,
+  "perp_med": 3.87,
+  "same_and_perp2": 0.041,
+  "n": 39421
+ },
+ "s7ancm->b08cww125a odd shift -10": {
+  "same": 0.26,
+  "perp_med": 3.83,
+  "same_and_perp2": 0.03,
+  "n": 39421
+ },
+ "s7ancm->b08cww125a even shift +0": {
+  "same": 0.926,
+  "perp_med": 1.2,
+  "same_and_perp2": 0.656,
+  "n": 38734
+ },
+ "s7ancm->b08cww125a even shift +3": {
+  "same": 0.876,
+  "perp_med": 2.83,
+  "same_and_perp2": 0.26,
+  "n": 38734
+ },
+ "s7ancm->b08cww125a even shift -3": {
+  "same": 0.851,
+  "perp_med": 2.98,
+  "same_and_perp2": 0.222,
+  "n": 38734
+ },
+ "s7ancm->b08cww125a even shift +6": {
+  "same": 0.65,
+  "perp_med": 4.62,
+  "same_and_perp2": 0.078,
+  "n": 38734
+ },
+ "s7ancm->b08cww125a even shift -6": {
+  "same": 0.6,
+  "perp_med": 4.76,
+  "same_and_perp2": 0.054,
+  "n": 38734
+ },
+ "s7ancm->b08cww125a even shift +10": {
+  "same": 0.294,
+  "perp_med": 3.92,
+  "same_and_perp2": 0.034,
+  "n": 38734
+ },
+ "s7ancm->b08cww125a even shift -10": {
+  "same": 0.254,
+  "perp_med": 3.95,
+  "same_and_perp2": 0.021,
+  "n": 38734
+ },
+ "s6m20cw->b05cww125a odd shift +0": {
+  "same": 0.913,
+  "perp_med": 1.52,
+  "same_and_perp2": 0.576,
+  "n": 39031
+ },
+ "s6m20cw->b05cww125a odd shift +3": {
+  "same": 0.838,
+  "perp_med": 3.0,
+  "same_and_perp2": 0.24,
+  "n": 39031
+ },
+ "s6m20cw->b05cww125a odd shift -3": {
+  "same": 0.865,
+  "perp_med": 2.92,
+  "same_and_perp2": 0.266,
+  "n": 39031
+ },
+ "s6m20cw->b05cww125a odd shift +6": {
+  "same": 0.59,
+  "perp_med": 4.45,
+  "same_and_perp2": 0.078,
+  "n": 39031
+ },
+ "s6m20cw->b05cww125a odd shift -6": {
+  "same": 0.618,
+  "perp_med": 4.49,
+  "same_and_perp2": 0.075,
+  "n": 39031
+ },
+ "s6m20cw->b05cww125a odd shift +10": {
+  "same": 0.249,
+  "perp_med": 3.73,
+  "same_and_perp2": 0.03,
+  "n": 39031
+ },
+ "s6m20cw->b05cww125a odd shift -10": {
+  "same": 0.267,
+  "perp_med": 3.9,
+  "same_and_perp2": 0.027,
+  "n": 39031
+ },
+ "s6m20cw->b05cww125a even shift +0": {
+  "same": 0.931,
+  "perp_med": 1.04,
+  "same_and_perp2": 0.696,
+  "n": 38339
+ },
+ "s6m20cw->b05cww125a even shift +3": {
+  "same": 0.858,
+  "perp_med": 2.94,
+  "same_and_perp2": 0.208,
+  "n": 38339
+ },
+ "s6m20cw->b05cww125a even shift -3": {
+  "same": 0.889,
+  "perp_med": 2.82,
+  "same_and_perp2": 0.243,
+  "n": 38339
+ },
+ "s6m20cw->b05cww125a even shift +6": {
+  "same": 0.595,
+  "perp_med": 4.7,
+  "same_and_perp2": 0.052,
+  "n": 38339
+ },
+ "s6m20cw->b05cww125a even shift -6": {
+  "same": 0.635,
+  "perp_med": 4.71,
+  "same_and_perp2": 0.054,
+  "n": 38339
+ },
+ "s6m20cw->b05cww125a even shift +10": {
+  "same": 0.233,
+  "perp_med": 3.81,
+  "same_and_perp2": 0.022,
+  "n": 38339
+ },
+ "s6m20cw->b05cww125a even shift -10": {
+  "same": 0.261,
+  "perp_med": 4.02,
+  "same_and_perp2": 0.02,
+  "n": 38339
+ }
+}
